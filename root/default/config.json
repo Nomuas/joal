@@ -1,0 +1,7 @@
+{
+  "minUploadRate": 30,
+  "maxUploadRate": 2000,
+  "simultaneousSeed": 20,
+  "client": "rtorrent-0.9.6_0.13.6.client",
+  "keepTorrentWithZeroLeechers": false
+}
